@@ -67,3 +67,8 @@ In **Falling Fruits** , you control a basket that moves horizontally at the bott
 3. **Basket Movement Script:**
    - Moves the basket horizontally based on player input (arrow keys or mobile buttons). Moves the basket left and right based on the input.
    
+## Game Screenshots
+Game in dev stage:
+![Game in Dev](./images/GameDev.png)
+Game running:
+![Game Running](./images/GameRunning.png)
